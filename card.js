@@ -25,7 +25,7 @@ const questions = [
             {
                 name: `Send me an ${chalk.green.bold("email")}?`,
                 value: () => {
-                    open("mailto:hi@anmolsingh.me");
+                    open("mailto:nur.dev@proton.me");
                     console.log("\nDone, see you soon at inbox.\n");
                 }
             },
@@ -64,7 +64,7 @@ const questions = [
 ];
 
 const data = {
-    name: chalk.bold.green("             Anmol Pratap Singh"),
+    name: chalk.bold.green("             Hosenur Rahaman"),
     handle: chalk.white("@anmol098"),
     work: `${chalk.white("Lead Software Engineer at")} ${chalk
         .hex("#2b82b2")
