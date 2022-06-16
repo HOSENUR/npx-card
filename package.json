@@ -6,10 +6,6 @@
   "bin": {
     "anmol": "./card.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/anmol098/npx_card.git"
-  },
   "scripts": {
     "test": "node card.js",
     "pub": "npm version major & npm publish"
@@ -31,7 +27,5 @@
     "npx",
     "npx card",
     "business card"
-  ],
-  "author": "Anmol Singh <hi@anmolsingh.me> (https://anmolsingh.me/)",
-  "license": "ISC"
+  ]
 }
